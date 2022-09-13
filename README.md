@@ -3,7 +3,7 @@
 ## Live site at Horiseon Service Challenge
 ### For this project I took the pre-existing webpage for Horiseon and optimized it for greater accessibility. 
 
-*ey Features
+*Key Features
 *image alt atributes
 *organized CSS by page flow
 *concise CSS
